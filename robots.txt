@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ingoovee.ragi256.com/sitemap.xml
